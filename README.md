@@ -2,7 +2,7 @@
 
 Es un paquete para crear de manera automatica operaciones CRUD. Inlcuye models, migrations, controllers, resources y routes.
 
-# Requsitos
+# Requisitos
 Para poder ocupar este paquete, debemos tener un proyecto funcional con Laravel, PHP y Composer instalados y funcionando. 
 
 # Instalación
