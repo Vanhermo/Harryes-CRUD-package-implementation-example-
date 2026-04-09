@@ -16,7 +16,7 @@ Para poder ocupar este paquete, debemos tener un proyecto funcional con Laravel,
 * CRUD para un modelo con columnas dinamicas: php artisan crud:generate SocialUser --columns=name:string,address:string?,phone:string,email:string
 * CRUD para un modelo sin columnas dinamicas: php artisan crud:generate SocialUser
 
-[!IMPORTANT]
+> [!IMPORTANT]
 Es importante agregar las siguientes lineas
 
 * En bootstrap/app
